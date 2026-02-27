@@ -1,0 +1,5 @@
+{
+  "name": "Travel Place Intelligence Bot",
+  "description": "Aggregates and structures travel data from blogs, social media, and forums to find famous and hidden gems.",
+  "requestFramePermissions": ["geolocation"]
+}
